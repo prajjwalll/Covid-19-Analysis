@@ -1,0 +1,10 @@
+Questions--
+
+Q1. What are the overall ranks and scores of each countries?
+Q2. Which are the top 20 happiest countries?
+Q3. Which are the top 20 least happiest countries?
+Q4. Whar are the average scores of continents?
+Q5. What is the relation between GDP of a country and its happiness?
+Q6. Does freedom of make life choices increase happiness of a country?
+Q7. Does social support increase healthy life expectancy?
+Q8. Are poeple ignorant towards corruption?
